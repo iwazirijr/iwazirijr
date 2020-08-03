@@ -1,10 +1,4 @@
 ### Hi there 👋 - Welcome to my GitHub Profile
-- This is me 😄
-- 🔭 I’m currently working on one of the many amazing @microsoft AzureGov projects 
-🔭 I’m currently working on
-💬 Ask me about Cybersecurity
-
-
 <!--
 **iwazirijr/iwazirijr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,4 +12,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- This is me 😄
+- 🔭 I’m currently working on one of the many amazing @microsoft AzureGov projects 
+🔭 I’m currently working on
+💬 Ask me about Cybersecurity
+
+
+
+
 -->
