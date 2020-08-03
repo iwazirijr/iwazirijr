@@ -1,5 +1,8 @@
-### Hi there 👋
-- 💬 Ask me about Cybersecurity
+### Hi there 👋 - Welcome to my GitHub Profile
+- This is me 😄
+- 🔭 I’m currently working on one of the many amazing @microsoft AzureGov projects 
+🔭 I’m currently working on
+💬 Ask me about Cybersecurity
 
 
 <!--
