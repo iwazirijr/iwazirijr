@@ -1,4 +1,4 @@
-### Hi there 👋 - Welcome to my GitHub Profile
+### Hi there 👋
 <!--
 **iwazirijr/iwazirijr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
