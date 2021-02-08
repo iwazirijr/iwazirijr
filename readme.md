@@ -1,14 +1,19 @@
 ### Hi there 👋 - Welcome to my GitHub Page 😊
-- 🏢 I work at @microsoft
-- 🏛 I teach Cybersecurity at Marymount University
-- 💬 Ask me about Cloud & Network Security, US National & Cybersecurity, and Teaching
-- 🎈 I enjoy:
+- 😎 I work as:
+  - 🏢 a Senior Manager at Microsoft
+  - 🏛 an Adjunct Professor of Cybersecurity at Marymount University
+- 💬 Ask me about:
+  - ☁ Cloud & Virtualization Security
+  - 🚦 Network & Infrastructure Security
+  - ⚔ U.S Cyber & National & Security
+  - 👨🏾‍🏫Teaching
+- 🎉 I enjoy:
   - 👶🏾 Playing with my son 
   - 📚 Reading
   - 🏍 Riding my Kawasaki z650
   - 🎮 Playing Video Games
   - ✈ Traveling
-- 📫 You can connect with me via:
+- 📫 Connect with me via:
   - 📄 LinkedIn
   - 🦜 Twitter
   - 🔐 Keybase
