@@ -1,23 +1,23 @@
 ### Hi there 👋 - Welcome to my GitHub Page 😊
-- 😎 I work as:
-  - 🏢 a Senior Manager at Microsoft
-  - 🏛 an Adjunct Professor of Cybersecurity at Marymount University
-- 💬 Ask me about:
-  - ☁ Cloud & Virtualization Security
-  - 🚦 Network & Infrastructure Security
-  - ⚔ U.S Cyber & National Security
-  - 👨🏾‍🏫Teaching
-- 🎉 I enjoy:
-  - 👶🏾 Playing with my son 
-  - 📚 Reading
-  - 🏍 Riding my Kawasaki z650
-  - 🎮 Playing Video Games
-  - ✈ Traveling
-- 📫 Connect with me via:
-  - 📄 LinkedIn
-  - 🦜 Twitter
-  - 🔐 Keybase
-  - 🌐 iwazirijr.com
+😎 I work as:
+- 🏢 a Senior Manager at Microsoft
+- 🏛 an Adjunct Professor of Cybersecurity at Marymount University
+💬 Ask me about:
+- ☁ Cloud & Virtualization Security
+- 🚦 Network & Infrastructure Security
+- ⚔ U.S Cyber & National Security
+- 👨🏾‍🏫Teaching
+🎉 I enjoy:
+- 👶🏾 Playing with my son 
+- 📚 Reading
+- 🏍 Riding my Kawasaki z650
+- 🎮 Playing Video Games
+- ✈ Traveling
+📫 Connect with me via:
+- 📄 LinkedIn
+- 🦜 Twitter
+- 🔐 Keybase
+- 🌐 iwazirijr.com
 
 <!--
 **iwazirijr/iwazirijr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
