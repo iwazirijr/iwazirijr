@@ -1,7 +1,7 @@
 ### Hi there 👋 - Welcome to my GitHub Page 😊
-😎 I work as:
-- 🏢 a Senior Manager at Microsoft
-- 🏛 an Adjunct Professor of Cybersecurity at Marymount University
+-😎 I work as:
+  - 🏢 a Senior Manager at Microsoft
+  - 🏛 an Adjunct Professor of Cybersecurity at Marymount University
 💬 Ask me about:
 - ☁ Cloud & Virtualization Security
 - 🚦 Network & Infrastructure Security
