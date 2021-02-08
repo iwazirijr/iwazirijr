@@ -1,22 +1,22 @@
 ### Hi there 👋 - Welcome to my GitHub Page 😊
 - 😎 I work as:
-  - 🏢 a Senior Manager at Microsoft
-  - 🏛 an Adjunct Professor of Cybersecurity at Marymount University
+  - 🏢 a Senior Manager within [Azure Gov Engineering Team](https://azure.microsoft.com/en-us/global-infrastructure/government/) at [Microsoft](https://www.microsoft.com/en-us/)
+  - 🏛 an Adjunct Professor of Cybersecurity at [Marymount University](https://marymount.edu/)
 - 💬 Ask me about:
   - ☁ Cloud & Virtualization Security
   - 🚦 Network & Infrastructure Security
   - ⚔ U.S Cyber & National Security
   - 👨🏾‍🏫Teaching
 - 🎉 I enjoy:
-  - 👶🏾 Playing with my son 
-  - 📚 Reading
+  - 👶🏾 Playing with my son
   - 🏍 Riding my Kawasaki z650
   - 🎮 Playing Video Games
+  - 📚 Reading
   - ✈ Traveling
 - 📫 Connect with me via:
-  - 📄 LinkedIn
-  - 🦜 [Twitter](https://twitter.com/iwazirijr:target="_blank")
-  - 🔐 Keybase
+  - 📄 [LinkedIn](https://www.linkedin.com/in/iwazirijr/)
+  - 🦜 [Twitter](https://twitter.com/iwazirijr/)
+  - 🔐 [Keybase](https://keybase.io/iiwaziri/)
   - 🌐 [My Personal Page](https://www.iwazirijr.com)
 
 <!--
