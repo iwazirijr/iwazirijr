@@ -15,7 +15,7 @@
   - ✈ Traveling
 - 📫 Connect with me via:
   - 📄 LinkedIn
-  - 🦜 [Twitter](https://twitter.com/iwazirijr){:target="_blank"}
+  - 🦜 [Twitter](https://twitter.com/iwazirijr:target="_blank")
   - 🔐 Keybase
   - 🌐 [My Personal Page](https://www.iwazirijr.com)
 
