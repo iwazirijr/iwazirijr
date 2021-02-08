@@ -5,7 +5,7 @@
 - 💬 Ask me about:
   - ☁ Cloud & Virtualization Security
   - 🚦 Network & Infrastructure Security
-  - ⚔ U.S Cyber & National & Security
+  - ⚔ U.S Cyber & National Security
   - 👨🏾‍🏫Teaching
 - 🎉 I enjoy:
   - 👶🏾 Playing with my son 
