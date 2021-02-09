@@ -11,7 +11,7 @@
   - 📄 [LinkedIn](https://www.linkedin.com/in/iwazirijr/)
   - 🦜 [Twitter](https://twitter.com/iwazirijr/)
   - 🔐 [Keybase](https://keybase.io/iiwaziri/)
-  - 🌐 [My Website](https://www.iwazirijr.com)
+  - 🌐 [Website](https://www.iwazirijr.com)
 - 🎉 I enjoy:
   - 👪 Family Time 
   - 🏍 Motorcycle
