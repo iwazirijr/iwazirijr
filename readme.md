@@ -1,23 +1,23 @@
-### Hi there 👋 - Welcome to my GitHub Page 😊
+#### Hi there 👋 - Welcome to my GitHub Page 😊
 - 😎 I work as:
   - 🏢 a Senior Manager within [Azure Gov Engineering Team](https://azure.microsoft.com/en-us/global-infrastructure/government/) at [Microsoft](https://www.microsoft.com/en-us/)
   - 🏛 an Adjunct Professor of Cybersecurity at [Marymount University](https://marymount.edu/)
 - 💬 Ask me about:
-  - ☁ Cloud & Virtualization Security
-  - 🚦 Network & Infrastructure Security
-  - ⚔ U.S Cyber & National Security
+  - ☁ Cloud & Network Security
+  - 💻 Digital Development
+  - ⚔ National Security
   - 👨🏾‍🏫Teaching
+- 📫 Connect with me via:
+  - 📄 [LinkedIn](https://www.linkedin.com/in/iwazirijr/)
+  - 🦜 [Twitter](https://twitter.com/iwazirijr/)
+  - 🔐 [Keybase](https://keybase.io/iiwaziri/)
+  - 🌐 [My Personal Page](https://www.iwazirijr.com)
 - 🎉 I enjoy:
   - 👶🏾 Playing with my son
   - 🏍 Riding my Kawasaki z650
   - 🎮 Playing Video Games
   - 📚 Reading
   - ✈ Traveling
-- 📫 Connect with me via:
-  - 📄 [LinkedIn](https://www.linkedin.com/in/iwazirijr/)
-  - 🦜 [Twitter](https://twitter.com/iwazirijr/)
-  - 🔐 [Keybase](https://keybase.io/iiwaziri/)
-  - 🌐 [My Personal Page](https://www.iwazirijr.com)
 
 <!--
 **iwazirijr/iwazirijr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
