@@ -6,7 +6,7 @@
   - ☁ Cloud & Network Security
   - 💻 Digital Development
   - ⚔ National Security
-  - 👨🏾‍🏫Teaching
+  - 👨🏾‍🏫 Teaching
 - 📫 Connect with me via:
   - 📄 [LinkedIn](https://www.linkedin.com/in/iwazirijr/)
   - 🦜 [Twitter](https://twitter.com/iwazirijr/)
