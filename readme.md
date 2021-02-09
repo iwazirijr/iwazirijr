@@ -13,9 +13,9 @@
   - 🔐 [Keybase](https://keybase.io/iiwaziri/)
   - 🌐 [My Personal Page](https://www.iwazirijr.com)
 - 🎉 I enjoy:
-  - 👶🏾 Playing with my son
-  - 🏍 Riding my Kawasaki z650
-  - 🎮 Playing Video Games
+  - 👪 Family Time 
+  - 🏍 Motorcycle
+  - 🎮 Video Games
   - 📚 Reading
   - ✈ Traveling
 
