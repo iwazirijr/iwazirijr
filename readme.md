@@ -4,9 +4,9 @@
   - 🏛 an Adjunct Professor of Cybersecurity at [Marymount University](https://marymount.edu/)
 - 💬 Ask me about:
   - ☁ Cloud & Network Security
+  - 👨🏾‍🏫 Teaching & Research
   - 💻 Digital Development
   - ⚔ National Security
-  - 👨🏾‍🏫 Teaching
 - 📫 Connect with me via:
   - 📄 [LinkedIn](https://www.linkedin.com/in/iwazirijr/)
   - 🦜 [Twitter](https://twitter.com/iwazirijr/)
