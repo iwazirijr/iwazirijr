@@ -3,7 +3,7 @@
 - 📫 Connect with me via: [LinkedIn](https://www.linkedin.com/in/iwazirijr/), [Twitter](https://twitter.com/iwazirijr/), and [Keybase](https://keybase.io/iiwaziri/)
 - 👷🏾‍♂️ There is more info about me on: [My Personal Bio Page](https://www.iwazirijr.com/bio), [My Microsoft Profile Page](https://devblogs.microsoft.com/azuregov/author/ibrahimwaziri/) and [My Outdated Purdue Profile Page](https://polytechnic.purdue.edu/profile/iwaziri)
 - ✍🏾 I occassionally write via: [My Personal Blog](https://www.iwazirijr.com) and [Microsoft Azure Government DevBlog](https://devblogs.microsoft.com/azuregov/)
-- 🎉 I enjoy: 👪 Family Time, 🏍 Motorcycle, 🎮 Video Games, 📚 Reading and ✈ Traveling
+- 🎉 I enjoy: Family Time, Motorcycle, Video Games, Reading and Traveling
 - 🔭 My interests are in: Cybersecurity, HealthTech, and EdTech
 - 💬 Ask me about: National Security, Cloud & Network Security, Teaching & Research, and Digital Development Policies
 
