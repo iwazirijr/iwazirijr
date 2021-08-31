@@ -1,5 +1,5 @@
 ### Hi there 👋 - Welcome to my GitHub page!
-- 👨🏾‍💻 I am a Senior Manager within the [Azure Gov Engineering Team](https://azure.microsoft.com/en-us/global-infrastructure/government/) at [Microsoft](https://www.microsoft.com/en-us/)
+- 👨🏾‍💻 I am a Senior Manager within the [Azure US Gov Engineering Team](https://azure.microsoft.com/en-us/global-infrastructure/government/) at [Microsoft](https://www.microsoft.com/en-us/)
 - 🎒 I am also an Adjunct Professor of Cybersecurity at [Marymount University](https://marymount.edu/)
 - 🔭 I am interested in secure technology deployment within the national security, health and education sectors
 - 🎉 I enjoy family time, motorcycle, video games, writing, reading and traveling
