@@ -4,7 +4,7 @@
 - 🔭 I am interested in secure technology deployment within the national security, health and education sectors
 - 🎉 I enjoy family time, motorcycle, video games, writing, reading and traveling
 - 💬 You can ask me about cloud & network security, digital development strategies, national security GRC, teaching and research
-- 📫 You can connect with me via [linkedIn](https://www.linkedin.com/in/iwazirijr/), [twitter](https://twitter.com/iwazirijr/), and [keybase](https://keybase.io/iiwaziri/)
+- 📫 You can connect with me via [linkedIn](https://www.linkedin.com/in/iwazirijr/) and [twitter](https://twitter.com/iwazirijr/)
 <!--
 **iwazirijr/iwazirijr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
