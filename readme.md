@@ -1,7 +1,7 @@
 ### Hi there 👋 - Welcome to my GitHub page!
-- 👨🏾‍💻 I am a Senior Manager within the [Azure US Gov Engineering Team](https://azure.microsoft.com/en-us/global-infrastructure/government/) at [Microsoft](https://www.microsoft.com/en-us/)
+- 👨🏾‍💻 I am a Pricipal Security Manager within the [Azure US Gov Engineering Team](https://azure.microsoft.com/en-us/global-infrastructure/government/) at [Microsoft](https://www.microsoft.com/en-us/)
 - 🎒 I am also an Adjunct Professor of Cybersecurity at [Marymount University](https://marymount.edu/)
-- 🔭 I am interested in secure technology deployment within the national security, health and education sectors
+- 🔭 I am interested in GRC and secure technology deployment within national security and regulated industries
 - 🎉 I enjoy family time, motorcycle, video games, writing, reading and traveling
 - 💬 You can ask me about cloud & network security, cybersecurity governance, national security GRC, teaching and research
 - 📫 You can connect with me via [linkedIn](https://www.linkedin.com/in/iwazirijr/) and [twitter](https://twitter.com/iwazirijr/)
