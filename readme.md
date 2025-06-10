@@ -1,5 +1,5 @@
 ### Hi there 👋 - Welcome to my GitHub page!
-- 👨🏾‍💻 I am a Principal Security Manager within the [Azure US Gov Engineering Team](https://azure.microsoft.com/en-us/global-infrastructure/government/) at [Microsoft](https://www.microsoft.com/en-us/)
+- 👨🏾‍💻 I am a Principal Security Product Manager within the [Azure US Gov Engineering Team](https://azure.microsoft.com/en-us/global-infrastructure/government/) at [Microsoft](https://www.microsoft.com/en-us/)
 - 🎒 I am also an Adjunct Professor of Cybersecurity at [Marymount University](https://marymount.edu/)
 - 🔭 I am interested in GRC and secure technology deployment within national security and regulated industries
 - 🎉 I enjoy family time, motorcycle, video games, writing, reading and traveling
