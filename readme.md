@@ -1,8 +1,7 @@
 ### Hi there 👋 - Welcome to my GitHub page!
-- 👨🏾‍💻 I am a Principal Security Product Manager within the [Azure US Gov Engineering Team](https://azure.microsoft.com/en-us/global-infrastructure/government/) at [Microsoft](https://www.microsoft.com/en-us/)
-- 🎒 I am also an Adjunct Professor of Cybersecurity at [Marymount University](https://marymount.edu/)
-- 🔭 I am interested in GRC and secure technology deployment within national security and regulated industries
-- 🎉 I enjoy family time, motorcycle, video games, writing, reading and traveling
+- 👨🏾‍💻 I am an Insider Risk Lead within the [Cloud CISO Global Risk & Compliance Team](https://cloud.google.com/security/gcat#office-of-the-ciso) at [Google](https://cloud.google.com/)
+- 🔭 My expertise spans cybersecurity engineering, insider risk management and cloud and AI security governance with a focus on global national security and regulated industries
+- 🎉 Outside of work, I enjoy family time, motorcycles, writing, reading, traveling and playing video games
 - 💬 You can ask me about cloud & network security, cybersecurity governance, national security GRC, teaching and research
 - 📫 You can connect with me via [linkedIn](https://www.linkedin.com/in/iwazirijr/) and [twitter](https://twitter.com/iwazirijr/)
 <!--
