@@ -3,7 +3,7 @@
 - 🔭 My expertise spans cybersecurity engineering, insider risk management and cloud and AI security governance with a focus on global national security and regulated industries
 - 🎉 Outside of work, I enjoy family time, motorcycles, writing, reading, traveling and playing video games
 - 💬 You can ask me about cloud & network security, cybersecurity governance, national security GRC, teaching and research
-- 📫 You can connect with me via [linkedIn](https://www.linkedin.com/in/iwazirijr/) and [twitter](https://twitter.com/iwazirijr/)
+- 📫 You can connect with me via [linkedIn](https://www.linkedin.com/in/iwazirijr/)
 <!--
 **iwazirijr/iwazirijr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
